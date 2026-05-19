@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Shania P. Abigan
+Handle: nikatyros
+Start Time: 2026-05-20 01:42:02.674594
+End Time: 2026-05-20 01:46:20.884696
+Duration (minutes): 4.30
+Score: 2/10
+Rating: BEGINNER
+---- Threat Logs ----
+Threat: POP3 Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.222 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: SMTP Phishing Campaign
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: MySQL Data Theft
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: Telnet Credential Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Failed login attempt detected from 192.168.1.51 on port
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMB Ransomware Attack
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Proxy Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.96 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: SSH Brute Force Attack
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: RDP Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.48 on port
+ALERT: Failed login attempt detected from 192.168.1.62 on port
+-------------------
+===================================
